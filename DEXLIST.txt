@@ -19,10 +19,10 @@
       "decimals": 18
     },
     {
-      "chainId": 80001,
-      "address": "0x4fb1e8Ff1f233539CF1Dd4305ba2194C0DA4C56d",
-      "name": "Alpine Save",
-      "symbol": "alpSave",
+      "chainId": 25,
+      "address": "0xBF497d7bD9cbFAf05E2def54E2ad2D3BdF7cB737",
+      "name": "Easy Cro",
+      "symbol": "EZCRO",
       "decimals": 18
     },
     {
