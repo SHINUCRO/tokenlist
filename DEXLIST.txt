@@ -7,6 +7,7 @@
     {
       "chainId": 25,
       "address": "0x66354fA2b47Bfc05b84CA590c775803D9356f8a4",
+      "logoURI": "https://raw.githubusercontent.com/SHINUCRO/logos/main/shinu_coin.png",
       "name": "Shikoku Inu",
       "symbol": "Shinu",
       "decimals": 18
